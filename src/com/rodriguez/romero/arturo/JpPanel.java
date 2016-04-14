@@ -33,7 +33,6 @@ public class JpPanel extends javax.swing.JPanel {
             }
         });
         reloj.start();
-        System.out.println("hola");
     }
 
     public void leerInterfaz() {
